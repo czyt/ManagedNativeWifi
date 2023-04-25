@@ -1,0 +1,5 @@
+E:\Code\dotnet\ManagedNativeWifi\obj\Release\ManagedNativeWifi.csproj.CoreCompileInputs.cache
+E:\Code\dotnet\ManagedNativeWifi\bin\Release\ManagedNativeWifi.dll
+E:\Code\dotnet\ManagedNativeWifi\bin\Release\ManagedNativeWifi.pdb
+E:\Code\dotnet\ManagedNativeWifi\obj\Release\ManagedNativeWifi.dll
+E:\Code\dotnet\ManagedNativeWifi\obj\Release\ManagedNativeWifi.pdb

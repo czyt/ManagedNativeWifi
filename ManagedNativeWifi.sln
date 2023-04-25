@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedNativeWifi", "ManagedNativeWifi.csproj", "{98E9D37E-9221-4DCD-AC63-390C38111027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E9D37E-9221-4DCD-AC63-390C38111027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E9D37E-9221-4DCD-AC63-390C38111027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E9D37E-9221-4DCD-AC63-390C38111027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E9D37E-9221-4DCD-AC63-390C38111027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CEAE65-C444-4A3D-BFB3-8AA4066E19FF}
+	EndGlobalSection
+EndGlobal
